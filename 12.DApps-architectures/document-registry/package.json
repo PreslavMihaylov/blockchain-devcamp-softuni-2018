@@ -1,0 +1,15 @@
+{
+  "name": "document-registry",
+  "version": "1.0.0",
+  "description": "A blockchain-based web app for verifying validity of documents",
+  "main": "index.js",
+  "dependencies": {
+    "lite-server": "^2.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Preslav Mihaylov",
+  "license": "ISC"
+}
